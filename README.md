@@ -1,7 +1,6 @@
 # cheongrahm
 
-A new Flutter project.
-
+School Meal Inform Application for Cheongwon Middle School, Cheongwon High School, Cheongwon Women's High School.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
